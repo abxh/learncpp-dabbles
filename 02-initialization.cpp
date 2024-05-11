@@ -16,13 +16,13 @@ int main(void) {
     int c(6);
 
     // ---------------- C++11--------------------
-    // list/scalar initialization:
+    // list initialization:
     int d{7};
 
-    // copy list/scalar initializaiton
+    // copy list initializaiton
     int e = {8};
 
-    // empty list/scalar initialization:
+    // empty list initialization:
     int f{};
 }
 
