@@ -1,5 +1,8 @@
 #include <iostream>
 
+// relevant page:
+// https://www.learncpp.com/cpp-tutorial/constexpr-and-consteval-functions/
+
 constexpr int square(int x) {
     return x * x;
 }
